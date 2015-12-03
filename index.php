@@ -1,5 +1,5 @@
 <?php
 
-echo "ver 1.5";
+echo "ver 1.6";
 
 ?>
