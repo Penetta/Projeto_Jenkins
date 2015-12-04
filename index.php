@@ -1,6 +1,6 @@
 <?php
 
 
-echo "ver 2.9 te amo”;
+echo "ver 2.9 te amo";
 
 ?>
