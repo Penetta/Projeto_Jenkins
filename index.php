@@ -1,6 +1,6 @@
 <?php
 
 
-echo "lalala";
+echo "ver 6.1";
 
 ?>
